@@ -1,3 +1,7 @@
+"""
+2. 基于四叉树的点云分割与建筑高度提取
+"""
+
 import rhinoscriptsyntax as rs
 import Rhino.Geometry as rh
 from Grasshopper.Kernel.Data import GH_Path
