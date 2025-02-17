@@ -1,3 +1,7 @@
+"""
+基于倾斜摄影点云数据的地面点识别
+"""
+
 import numpy as np
 from scipy.signal import convolve2d
 from sklearn.cluster import KMeans
