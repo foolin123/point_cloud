@@ -1,4 +1,8 @@
-﻿import rhinoscriptsyntax as rs
+"""
+4.结构平面自动翻模
+"""
+
+import rhinoscriptsyntax as rs
 import math
 from Grasshopper import DataTree
 import Rhino.Geometry as rg
